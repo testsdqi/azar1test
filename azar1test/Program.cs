@@ -3,3 +3,4 @@ string str = Console.ReadLine();
 Console.WriteLine("name:  "+str);
 Console.WriteLine();
 Console.WriteLine();
+Console.WriteLine();
