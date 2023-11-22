@@ -1,3 +1,3 @@
 ﻿Console.Write("enter name:");
 string str = Console.ReadLine();
-Console.WriteLine(str);
+Console.WriteLine("name: "+str);
