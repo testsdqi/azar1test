@@ -2,3 +2,4 @@
 string str = Console.ReadLine();
 Console.WriteLine("name:  "+str);
 Console.WriteLine("hi" +str);
+Console.WriteLine("123");
